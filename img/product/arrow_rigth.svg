@@ -1,0 +1,10 @@
+<svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="arrow" clip-path="url(#clip0_1_2046)">
+<path id="Polygon 1" d="M9.68907 7.20829C9.85749 7.3663 9.85749 7.6337 9.68907 7.79171L4.67368 12.4971C4.41825 12.7368 4 12.5557 4 12.2054L4 2.79459C4 2.44435 4.41825 2.26324 4.67368 2.50288L9.68907 7.20829Z" fill="#0E1821"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2046">
+<rect width="14" height="12" fill="white" transform="translate(0 14) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
